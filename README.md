@@ -1,72 +1,76 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=BIENVENIDO%20A%20MI%20GITHUB&fontSize=35&fontColor=ffffff&animation=fadeIn&fontY=38" width="100%" />
-</div>
 
-<div align="center">
-  <h3>🤖 AI Software Engineer & IoT Developer 🌐</h3>
-  <p><em>Construyendo el futuro con Inteligencia Artificial, Ingeniería de Software y Sistemas Inteligentes.</em></p>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00f0ff&height=220&section=header&text=DANIEL%20IZQUIERDO&fontSize=42&fontColor=00f0ff&animation=fadeIn&fontY=45&desc=AI%20Software%20Engineer%20%7C%20IoT%20Developer&descSize=18&descY=68" width="100%" />
 
----
+  <br/>
 
-<div align="center">
-  <h2>🧠 Núcleo Tecnológico e Inteligencia Artificial</h2>
-  <p>Arquitectura de sistemas, procesamiento de datos y modelos avanzados.</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=45&lines=Ingenier%C3%ADa+de+Software+%2B+IA;Desarrollador+de+Sistemas+IoT+%26+Embedded;Soluciones+Innovadoras+%26+Automatizaci%C3%B3n" alt="Typing SVG" />
+  </a>
 
-  <p>
-    <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python" title="Python" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="48" height="48" alt="Java" title="Java" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://kotlinlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="48" height="48" alt="Kotlin" title="Kotlin" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="48" height="48" alt="Swift" title="Swift" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="48" height="48" alt="PHP" title="PHP" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48" height="48" alt="JavaScript" title="JavaScript" /></a>
+  <p align="center">
+    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://youtube.com"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+    <a href="https://twitter.com"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+    <a href="https://tiktok.com"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+    <a href="https://facebook.com"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   </p>
+
+</div>
+
+---
+
+
+
+<div align="center">
+
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+
+
+<div align="center">
+
+  <a href="https://github.com">
+    <img src="https://github-readme-stats.vercel.app/api?username=robertoBCV&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoBCV&layout=compact&theme=synthwave&hide_border=true" width="48%" alt="Top Languages" />
+  </a>
+
 </div>
 
 ---
 
 <div align="center">
-  <h2>⚡ Hardware, IoT & Maquetación</h2>
-  <p>Conectando el software con el mundo físico y diseño de interfaces web.</p>
-
-  <p>
-    <a href="https://www.arduino.cc/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="48" height="48" alt="Arduino" title="Arduino" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="48" height="48" alt="HTML5" title="HTML5" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="48" height="48" alt="CSS3" title="CSS3" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="48" height="48" alt="Git" title="Git" /></a>
-  </p>
-</div>
-
----
-
-<div align="center">
-  <h2>🛠️ Entorno de Desarrollo (IDE's)</h2>
-
-  <p>
-    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="44" height="44" alt="VS Code" title="VS Code" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.sublimetext.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" width="44" height="44" alt="Sublime Text" title="Sublime Text" /></a>
-  </p>
-</div>
-
----
-
-<div align="center">
-  <h2>🌐 Conéctate Conmigo</h2>
-  <p>
-    <a href="https://linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://youtube.com/@TU-USUARIO"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-    <a href="https://twitter.com/TU-USUARIO"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/></a>
-    <a href="https://tiktok.com/@TU-USUARIO"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
-    <a href="https://facebook.com/TU-USUARIO"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  </p>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=robertoBCV&label=Visitas%20al%Mundial&color=blueviolet&style=flat-square" alt="Contador de visitas" />
-</div>
-
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDEycG5mbjkxN3d1azR6ZW94MHMyMDU5ZGJ4Z3JycGdwZmc5amlvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="180" alt="Animación IA" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=robertoBCV&label=VISITAS&color=00f0ff&style=for-the-badge" alt="Visitas" />
+  <br/><br/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDEycG5mbjkxN3d1azR6ZW94MHMyMDU5ZGJ4Z3JycGdwZmc5amlvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="160" alt="IA GIF" />
 </div>
