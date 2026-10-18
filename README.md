@@ -14,13 +14,7 @@
   <a href="https://facebook.com"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Dani2006-ceu.Dani2006-ceu&left_text=VISITAS&left_color=0d1117&right_color=00b8c4" alt="Visitas" />
-
 </div>
-
----
-
-## 🧑‍🚀 Sobre mí
 
 ```kotlin
 object Daniel {
@@ -32,8 +26,6 @@ object Daniel {
     val mision    = "Unir software + hardware + IA para resolver problemas reales"
 }
 ```
-
----
 
 <div align="center">
 
@@ -60,10 +52,6 @@ object Daniel {
 
 </div>
 
----
-
-## 🚀 Proyectos destacados
-
 | | Proyecto | Qué hace | Tecnología |
 |:-:|---|---|---|
 | 🦾 | **Brazo robótico** | Mano articulada (dedos y falanges) impresa en 3D y movida con servos | `Arduino` `Impresión 3D` |
@@ -72,15 +60,9 @@ object Daniel {
 | 🎨 | **Pintadivina** | Juego online tipo Pinturillo: uno dibuja, los demás adivinan en tiempo real | `Supabase` `Realtime` `Vercel` |
 | 🪪 | **Portafolio** | Portafolio web con fotocheck colgante y contacto por QR | `HTML` `CSS` `JS` |
 
----
-
 <div align="center">
 
-## 🏙️ Mis contribuciones en 3D
-
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Contribuciones 3D" />
-
-## 📊 Estadísticas
 
 <img src="https://github-readme-stats.vercel.app/api?username=Dani2006-ceu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff3cac&text_color=e6edf3&count_private=true" width="49%" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani2006-ceu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=e6edf3" width="49%" alt="Top Languages" />
@@ -88,8 +70,6 @@ object Daniel {
 <img src="https://streak-stats.demolab.com?user=Dani2006-ceu&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=ff3cac&currStreakLabel=00f0ff" width="98%" alt="Streak Stats" />
 
 </div>
-
----
 
 <div align="center">
 
