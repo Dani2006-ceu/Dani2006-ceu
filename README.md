@@ -52,14 +52,6 @@ object Daniel {
 
 </div>
 
-| | Proyecto | Qué hace | Tecnología |
-|:-:|---|---|---|
-| 🦾 | **Brazo robótico** | Mano articulada (dedos y falanges) impresa en 3D y movida con servos | `Arduino` `Impresión 3D` |
-| 🐶 | **Comedero inteligente** | Detecta al cachorro y le da agua y comida solo (bomba + servo + LCD + Bluetooth) | `Arduino Mega` `IoT` |
-| 💸 | **Mis Gastos** | App móvil instalable en Android para controlar gastos con gráficos animados | `JavaScript` `PWA` `Vercel` |
-| 🎨 | **Pintadivina** | Juego online tipo Pinturillo: uno dibuja, los demás adivinan en tiempo real | `Supabase` `Realtime` `Vercel` |
-| 🪪 | **Portafolio** | Portafolio web con fotocheck colgante y contacto por QR | `HTML` `CSS` `JS` |
-
 <div align="center">
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Contribuciones 3D" />
