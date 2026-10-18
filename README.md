@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- 🌌 BANNER 3D ANIMADO (hecho a mano, único) -->
 <img src="./assets/banner-3d.svg" width="100%" alt="Daniel Izquierdo — AI Software Engineer & IoT Developer" />
 
-<!-- ⌨️ MÁQUINA DE ESCRIBIR -->
 <a href="https://github.com/Dani2006-ceu">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=45&lines=Ingenier%C3%ADa+de+Software+%2B+IA+%F0%9F%A7%A0;Sistemas+IoT+%26+Embedded+con+Arduino+%E2%9A%A1;Apps+web+y+m%C3%B3viles+en+Vercel+%2B+Supabase+%F0%9F%9A%80;Ucayali%2C+Per%C3%BA+%F0%9F%87%B5%F0%9F%87%AA" alt="Typing SVG" />
 </a>
 
-<!-- 🔗 REDES -->
 <p>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://youtube.com"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
