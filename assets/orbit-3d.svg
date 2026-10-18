@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420">
+  <defs>
+    <radialGradient id="core" cx="0.4" cy="0.35" r="0.7">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.25" stop-color="#00f0ff"/>
+      <stop offset="0.7" stop-color="#7b2ff7"/>
+      <stop offset="1" stop-color="#2a0a5e"/>
+    </radialGradient>
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7b2ff7" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#7b2ff7" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <path id="o1" d="M 260 210 A 240 70 0 1 1 740 210 A 240 70 0 1 1 260 210"/>
+    <path id="o2" d="M 150 210 A 350 115 0 1 0 850 210 A 350 115 0 1 0 150 210"/>
+    <path id="o3" d="M 40 210 A 460 165 0 1 1 960 210 A 460 165 0 1 1 40 210"/>
+    <style>
+      .ring{fill:none;stroke-width:1.2;stroke-dasharray:4 6}
+      .lbl{font:700 13px 'Fira Code',Consolas,monospace;fill:#fff;text-anchor:middle;dominant-baseline:central}
+      .pulse{animation:p 3s ease-in-out infinite;transform-origin:500px 210px}
+      @keyframes p{0%,100%{transform:scale(1)}50%{transform:scale(1.06)}}
+    </style>
+  </defs>
+
+  <rect width="1000" height="420" fill="#0d1117"/>
+
+  <g opacity=".85">
+    <use href="#o1" class="ring" stroke="#00f0ff"/>
+    <use href="#o2" class="ring" stroke="#7b2ff7"/>
+    <use href="#o3" class="ring" stroke="#ff3cac"/>
+  </g>
+
+  <!-- núcleo -->
+  <circle cx="500" cy="210" r="120" fill="url(#halo)"/>
+  <g class="pulse">
+    <circle cx="500" cy="210" r="52" fill="url(#core)" filter="url(#glow)"/>
+    <text x="500" y="204" class="lbl" style="font-size:15px">DANIEL</text>
+    <text x="500" y="222" class="lbl" style="font-size:10px;fill:#e6edf3">AI · IoT</text>
+  </g>
+
+  <!-- planeta: g con animateMotion -->
+  <!-- órbita 1 -->
+  <g><animateMotion dur="14s" repeatCount="indefinite" begin="0s"><mpath href="#o1"/></animateMotion>
+    <circle r="24" fill="#3776AB" filter="url(#glow)"/><text class="lbl">Py</text></g>
+  <g><animateMotion dur="14s" repeatCount="indefinite" begin="-4.66s"><mpath href="#o1"/></animateMotion>
+    <circle r="24" fill="#7F52FF" filter="url(#glow)"/><text class="lbl">Kt</text></g>
+  <g><animateMotion dur="14s" repeatCount="indefinite" begin="-9.33s"><mpath href="#o1"/></animateMotion>
+    <circle r="24" fill="#00979D" filter="url(#glow)"/><text class="lbl" style="font-size:10px">Ardu</text></g>
+
+  <!-- órbita 2 -->
+  <g><animateMotion dur="22s" repeatCount="indefinite" begin="0s"><mpath href="#o2"/></animateMotion>
+    <circle r="22" fill="#F7DF1E"/><text class="lbl" style="fill:#000">JS</text></g>
+  <g><animateMotion dur="22s" repeatCount="indefinite" begin="-5.5s"><mpath href="#o2"/></animateMotion>
+    <circle r="22" fill="#ED8B00"/><text class="lbl" style="font-size:11px">Java</text></g>
+  <g><animateMotion dur="22s" repeatCount="indefinite" begin="-11s"><mpath href="#o2"/></animateMotion>
+    <circle r="22" fill="#E34F26"/><text class="lbl" style="font-size:10px">HTML</text></g>
+  <g><animateMotion dur="22s" repeatCount="indefinite" begin="-16.5s"><mpath href="#o2"/></animateMotion>
+    <circle r="22" fill="#1572B6"/><text class="lbl">CSS</text></g>
+
+  <!-- órbita 3 -->
+  <g><animateMotion dur="32s" repeatCount="indefinite" begin="0s"><mpath href="#o3"/></animateMotion>
+    <circle r="22" fill="#3ECF8E"/><text class="lbl" style="font-size:9px;fill:#000">Supa</text></g>
+  <g><animateMotion dur="32s" repeatCount="indefinite" begin="-6.4s"><mpath href="#o3"/></animateMotion>
+    <circle r="22" fill="#000" stroke="#fff" stroke-width="1.5"/><text class="lbl" style="font-size:9px">Vercel</text></g>
+  <g><animateMotion dur="32s" repeatCount="indefinite" begin="-12.8s"><mpath href="#o3"/></animateMotion>
+    <circle r="22" fill="#F05032"/><text class="lbl">Git</text></g>
+  <g><animateMotion dur="32s" repeatCount="indefinite" begin="-19.2s"><mpath href="#o3"/></animateMotion>
+    <circle r="22" fill="#777BB4"/><text class="lbl">PHP</text></g>
+  <g><animateMotion dur="32s" repeatCount="indefinite" begin="-25.6s"><mpath href="#o3"/></animateMotion>
+    <circle r="22" fill="#FA7343"/><text class="lbl" style="font-size:10px">Swift</text></g>
+</svg>
